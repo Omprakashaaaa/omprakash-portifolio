@@ -17,6 +17,12 @@ header{
     text-align: center;
     margin-top: 10px;
 }
+@media screen and (max—width: 524px){
+.ancher a{
+    font-size: 10px;
+    margin: 0 30px;
+    }
+}
 header nav a{
     color :#eee;
     font-size: small;
